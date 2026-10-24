@@ -72,9 +72,6 @@ Live Demo
 Add a section linking to our website:
 https://safetour-qr-connect.lovable.app
 
-Repository Structure
-
-Include a sample repository structure, but clearly label it as an example if the actual source-code structure is unavailable.
 
 Installation and Setup
 
@@ -92,14 +89,3 @@ Conclusion
 
 Explain how SAFE TOUR QR aims to support faster missing-person identification and safer family reunification.
 
-Formatting Requirements
-
-- Use professional GitHub Markdown.
-- Add appropriate emojis to headings without overusing them.
-- Include a table for the technology stack.
-- Include a numbered list for the workflow.
-- Add a project website link.
-- Make the README suitable for a college project or hackathon submission.
-- Keep the English simple, clear, and professional.
-- Do not invent performance statistics, implementation details, or achievements.
-- Output only the complete README.md content.
